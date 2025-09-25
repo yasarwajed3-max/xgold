@@ -22,5 +22,11 @@
         "key": "DOMFSsPweV",
         "expirydate": "25-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "8a7b7b89cedde7c5",
+        "key": "MIpBkFWjaX",
+        "expirydate": "25-06-2028",
+        "Allowoffline": false
     }
 ]
