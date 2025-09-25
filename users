@@ -28,5 +28,11 @@
         "key": "MIpBkFWjaX",
         "expirydate": "25-06-2028",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ec18780100957ceb",
+        "key": "sQ6XyVwHjf",
+        "expirydate": "25-09-2099",
+        "Allowoffline": false
     }
 ]
