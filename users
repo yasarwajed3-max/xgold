@@ -52,5 +52,11 @@
         "key": "H89uhbXLD0",
         "expirydate": "28-04-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "0366395340ff8e6a",
+        "key": "CroehgDLq0",
+        "expirydate": "29-10-2673",
+        "Allowoffline": false
     }
 ]
