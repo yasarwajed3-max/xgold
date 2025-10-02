@@ -88,5 +88,11 @@
         "key": "TEMFgR3ubz",
         "expirydate": "02-03-2033",
         "Allowoffline": false
+    },
+    {
+        "device_id": "da0c2f6490b009bb",
+        "key": "hbaej2WvU1",
+        "expirydate": "02-01-2109",
+        "Allowoffline": false
     }
 ]
