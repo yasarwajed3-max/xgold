@@ -95,10 +95,16 @@
         "expirydate": "02-01-2109",
         "Allowoffline": false
     },
-{
+    {
         "device_id": "d3f697b62245ca89",
         "key": "ofafg12",
         "expirydate": "02-01-2109",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "cb9d2360377da6b0",
+        "key": "FsI57YbrVO",
+        "expirydate": "03-06-2026",
         "Allowoffline": false
     }
 ]
