@@ -226,5 +226,11 @@
         "key": "ayRGSL46Iv",
         "expirydate": "23-01-2109",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3767ac6d432f56d7",
+        "key": "Ufbq9l3ML1",
+        "expirydate": "23-01-2109",
+        "Allowoffline": false
     }
 ]
