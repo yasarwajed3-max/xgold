@@ -244,5 +244,11 @@
         "key": "Le3DErkJMx",
         "expirydate": "25-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "21c31a329a5a8368",
+        "key": "d8TZW6fxQ7",
+        "expirydate": "25-01-2109",
+        "Allowoffline": false
     }
 ]
