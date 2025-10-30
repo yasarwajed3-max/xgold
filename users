@@ -340,5 +340,11 @@
         "key": "YITO06uwSs",
         "expirydate": "30-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3028c4c31cc47aa2",
+        "key": "2GiEzOlak0",
+        "expirydate": "30-11-2025",
+        "Allowoffline": false
     }
 ]
