@@ -334,5 +334,11 @@
         "key": "CswLA68SZ5",
         "expirydate": "30-01-2109",
         "Allowoffline": false
+    },
+    {
+        "device_id": "8ce4fd8b61cdb3eb",
+        "key": "CpQotS1E3l",
+        "expirydate": "30-11-2025",
+        "Allowoffline": false
     }
 ]
