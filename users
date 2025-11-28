@@ -478,5 +478,11 @@
         "key": "5rIAU2lipZ",
         "expirydate": "28-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d1a3b81a5111ddea",
+        "key": "ENpGdDRMQ4",
+        "expirydate": "28-12-2025",
+        "Allowoffline": false
     }
 ]
