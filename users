@@ -472,5 +472,11 @@
         "key": "J2kMy69tbl",
         "expirydate": "28-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "2a305bc2629bfff7",
+        "key": "5rIAU2lipZ",
+        "expirydate": "28-12-2025",
+        "Allowoffline": false
     }
 ]
