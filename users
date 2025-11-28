@@ -484,5 +484,11 @@
         "key": "ENpGdDRMQ4",
         "expirydate": "28-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "fcbe646e971ec29b",
+        "key": "bKTzYvUG1H",
+        "expirydate": "28-02-2109",
+        "Allowoffline": false
     }
 ]
