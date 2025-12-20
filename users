@@ -538,5 +538,11 @@
         "key": "HQS7TmgWX3",
         "expirydate": "08-03-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "47399945CB06F315",
+        "key": "lVqgMUH7jS",
+        "expirydate": "08-03-2034",
+        "Allowoffline": false
     }
 ]
